@@ -37,3 +37,10 @@ Para ello, se ha desarrollado un **videojuego tipo Tower Defense** como prototip
 - **Git & GitHub** – Control de versiones  
 
 ---
+
+## 📸 Capturas del juego
+
+![Tower defense](img1.png)
+![Tower defense](img2.png)
+![Tower defense](img3.png)
+![Tower defense](img4.png)
